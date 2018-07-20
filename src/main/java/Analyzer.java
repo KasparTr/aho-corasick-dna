@@ -4,7 +4,7 @@ public class Analyzer {
      *  https://www.hackerrank.com/challenges/determining-dna-health/problem
      * For string matching, I am using the Aho-Corasick algorithm implementation stated here:
      *  https://github.com/robert-bor/aho-corasick
-     * This program is solely for study puropses only.
+     * This program is solely for study purposes only.
      * @param args
      */
     public static void main(String[] args) {
